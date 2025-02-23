@@ -1,5 +1,5 @@
 # test-task-pdo-for0hirebus-natasa_sebek
-Applying for a PdO role and Hire Bus asked me to build this https://docs.google.com/document/d/1fklUFk9f19cJ8Ve1JYBZBYipzngpVYtMJ6wPx56Yy20/edit?usp=sharing
+Applying for a PdO role and HireBus.com https://www.linkedin.com/jobs/view/4159103156  asked me to build this https://docs.google.com/document/d/1fklUFk9f19cJ8Ve1JYBZBYipzngpVYtMJ6wPx56Yy20/edit?usp=sharing
 # 🛠️ **Smart Hiring Automation - TalentSync AI (Final Strategy)**
 > **An AI-powered, cross-platform hiring automation tool for resume screening, AI-driven interviews, and scheduling.**  
 > **Built with Agile principles, optimized for real-world scalability, and integrated with Bolt.**
