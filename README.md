@@ -1,8 +1,27 @@
 # test-task-pdo-for0hirebus-natasa_sebek
+
+
 Applying for a PdO role and HireBus.com https://www.linkedin.com/jobs/view/4159103156  asked me to build this https://docs.google.com/document/d/1fklUFk9f19cJ8Ve1JYBZBYipzngpVYtMJ6wPx56Yy20/edit?usp=sharing
+
 # 🛠️ **Smart Hiring Automation - TalentSync AI (Final Strategy)**
 > **An AI-powered, cross-platform hiring automation tool for resume screening, AI-driven interviews, and scheduling.**  
 > **Built with Agile principles, optimized for real-world scalability, and integrated with Bolt.**
+
+## Table of Contents
+- [Project Overview](#project-overview)
+- [Business Requirements](#business-requirements)
+- [User Stories](#user-stories)
+- [Technical Solution & Architecture](#technical-solution--architecture)
+- [Web & Mobile Sync Strategy](#web--mobile-sync-strategy)
+- [Real-World Development Challenges](#real-world-development-challenges)
+- [Feeding Bolt for Workflow Automation](#feeding-bolt-for-workflow-automation)
+- [Agile Roadmap & Execution](#agile-roadmap--execution)
+- [Mitigation Strategies for Scaling & Stability](#mitigation-strategies-for-scaling--stability)
+- [Final Steps & Deployment Strategy](#final-steps--deployment-strategy)
+- [Future Enhancements](#future-enhancements)
+- [Final Checklist](#final-checklist)
+- [Next Step](#next-step)
+
 
 ## 🚀 **Project Overview**
 TalentSync AI is a **cross-device, AI-powered hiring solution** designed to:  
