@@ -1,7 +1,26 @@
-# test-task-pdo-for0hirebus-natasa_sebek
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>README</title>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Ubuntu:wght@400;700&display=swap">
+  <style>
+    body {
+      font-family: 'Ubuntu', sans-serif;
+    }
+    h1 {
+      color: blue;
+    }
+    h2 {
+      color: purple;
+    }
+  </style>
+</head>
+<body>
 
+<h1>test-task-pdo-forhirebus-natasa_sebek</h1>
 
-Applying for a PdO role and HireBus.com https://www.linkedin.com/jobs/view/4159103156  asked me to build this https://docs.google.com/document/d/1fklUFk9f19cJ8Ve1JYBZBYipzngpVYtMJ6wPx56Yy20/edit?usp=sharing
+<h2>Applying for a PdO role and HireBus.com <a href="https://www.linkedin.com/jobs/view/4159103156">https://www.linkedin.com/jobs/view/4159103156</a> asked me to build this <a href="https://docs.google.com/document/d/1fklUFk9f19cJ8Ve1JYBZBYipzngpVYtMJ6wPx56Yy20/edit?usp=sharing">Google Doc</a>.</h2>
 
 # 🛠️ **Smart Hiring Automation - TalentSync AI (Final Strategy)**
 > **An AI-powered, cross-platform hiring automation tool for resume screening, AI-driven interviews, and scheduling.**  
